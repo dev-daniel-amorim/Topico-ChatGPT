@@ -1,5 +1,5 @@
 # Chat GPT
-Aqui meus conteúdos de integração do Chat GPT com Python, perguntando e respondendo por voz, controlando sites com Chat GPT e muito mais.
+Aqui meus conteúdos de integração do Chat GPT com aplicações gerais.
 
 | Tutoriais/Títulos    | Descrição/Link Medium  | Links/Vídeos YouTube | Links/Códigos fonte |
 | --- | --- | --- | --- |
