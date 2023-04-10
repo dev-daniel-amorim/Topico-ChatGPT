@@ -3,7 +3,7 @@ Aqui meus conteúdos de integração do Chat GPT com Python, perguntando e respo
 
 | Tutoriais/Títulos    | Descrição/Link Medium  | Links/Vídeos YouTube | Links/Códigos fonte |
 | --- | --- | --- | --- |
-| Chat GPT com voz| [Usando API do Chat GPT para iteração com comando de voz em Python (recebe e envia por voz).](https://medium.com/@dev.daniel.amorim/assistente-com-chat-gpt-6512c606a28e) | --- | --- |
+| Chat GPT com voz| [Usando API do Chat GPT para iteração com comando de voz em Python (envia comandos por voz e recebe resposta por voz em português).](https://medium.com/@dev.daniel.amorim/assistente-com-chat-gpt-6512c606a28e) | --- | --- |
 
 
 <hr>
