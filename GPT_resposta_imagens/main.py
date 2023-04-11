@@ -15,12 +15,20 @@ def gerar_resposta(mensagem):
     )
     return [response.choices[0].message.content, response.usage]
 
+
+'''
+Altere a resolução as imagens para: (custos ao lado)
+1024×1024	$0.020 / image
+512×512	    $0.018 / image
+256×256	    $0.016 / image
+'''
+
  # Pedido de geração de imagem ao chat GPT
 def gerar_imagem(imagem):
     response = openai.Image.create(
       prompt=imagem,
       n=1,
-      size="256x256",
+      size="256x256", #altera resolução aqui
     )
     return response['data'][0]['url']
 
