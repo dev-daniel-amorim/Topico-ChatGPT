@@ -1,5 +1,5 @@
 # Chat GPT
-Aqui meus conteúdos de integração do Chat GPT com aplicações gerais.
+Desenvolvi algumas aplicações para interação com API da Openai (Chat GPT), esse material tem fins didáticos, os códigos estão disponibilizados, fiquem a vontade para explora-los, só peço que mantenham o nome do autor (eu mesmo) na descrição interna do código.
 
 | Tutoriais/Títulos    | Descrição/Link Medium  | Links/Vídeos YouTube | Links/Códigos fonte |
 | --- | --- | --- | --- |
