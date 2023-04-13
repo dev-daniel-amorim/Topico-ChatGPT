@@ -1,4 +1,4 @@
-# Chat GPT
+# API Openai (Chat GPT)
 Desenvolvi algumas aplicações para interação com API da Openai, esse material tem fins didáticos para o estudo da IA, os códigos estão disponibilizados, fiquem a vontade para explora-los.
 
 | Tutoriais/Títulos    | Descrição/Link Medium  | Links/Vídeos YouTube | Links/Códigos fonte |
