@@ -1,5 +1,5 @@
 # Chat GPT
-Desenvolvi algumas aplicações para interação com API da Openai (Chat GPT), esse material tem fins didáticos, os códigos estão disponibilizados, fiquem a vontade para explora-los, só peço que mantenham o nome do autor (eu mesmo) na descrição interna dos códigos, em caso de melhorias adicione seu nome (faça um append).
+Desenvolvi algumas aplicações para interação com API da Openai, esse material tem fins didáticos para o estudo da IA, os códigos estão disponibilizados, fiquem a vontade para explora-los.
 
 | Tutoriais/Títulos    | Descrição/Link Medium  | Links/Vídeos YouTube | Links/Códigos fonte |
 | --- | --- | --- | --- |
