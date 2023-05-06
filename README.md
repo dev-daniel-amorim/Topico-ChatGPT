@@ -1,5 +1,5 @@
-# API Openai (Chat GPT)
-Desenvolvi algumas aplicações para interação com API da Openai, esse material tem fins didáticos para o estudo da IA, os códigos estão disponibilizados, fiquem a vontade para explora-los.
+# Inteligência artificial e visão computaciona
+Aqui você irá encontrar muitos projetos interessantes usando API do ChatGPT, inteligência artificial, visão computacional e muitos outros conteúdos voltado para o assunto.
 
 | Tutoriais/Títulos    | Descrição/Link Medium  | Links/Vídeos YouTube | Links/Códigos fonte |
 | --- | --- | --- | --- |
@@ -7,7 +7,7 @@ Desenvolvi algumas aplicações para interação com API da Openai, esse materia
 | Chat GPT Voice| [Usando API do Chat GPT para interação com comando de voz em Python (envia comandos por voz e recebe resposta por voz em português ou inglês).](https://medium.com/@dev.daniel.amorim/assistente-com-chat-gpt-6512c606a28e) | [Vídeo Youtube](https://youtu.be/xnphE8xgm2s) | [Código Python](https://github.com/dev-daniel-amorim/Topico-ChatGPT/blob/main/ChatGPT_Voice/main.py) |
 | Chat GPT Análise de dados | [IA desenvolvendo seu próprio código fonte para análise de dados de forma autônoma, somente baseada em perguntas de negócio (Séra o fim dos programadores?)](https://medium.com/@dev.daniel.amorim/chat-gpt-programando-em-python-c2a1802fe959) | [Vídeo Youtube](https://youtu.be/k1FBwJ5Y_cE) | [Código Python](https://github.com/dev-daniel-amorim/Topico-ChatGPT/blob/main/ChatGPT_AD/main.py) |
 | Chat GPT Culinário | Aplicativo que roda em janela Tkinter onde você pode digitar ingredientes disponíveis e escolher entre receitas básicas, veganas, saudáveis ou doces e a inteligência artificial gera a receita com seus ingredientes informando nome da receita e modo de preparo. | [---]() | [Código Python](https://github.com/dev-daniel-amorim/Topico-ChatGPT/blob/main/ChatGPT_Culinario/main.py) |
-| IA com Voz e reconhecimento de imagens | Projeto agregando visão computacional ao Chat GPT com comando de voz (resultado) | [Vídeo Youtube]() | [---]() |
+| IA com Voz e reconhecimento de imagens | Projeto agregando visão computacional ao Chat GPT com comando de voz (resultado) | [Vídeo Youtube](https://youtu.be/xKAxkkp8htU) | [---]() |
 
 <hr>
 
